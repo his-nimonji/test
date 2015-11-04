@@ -1,0 +1,43 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Eclipse Project #
+###################
+.settings
+.buildpath
+.project
+
+# CakePHP #
+###########
+app/tmp/cache/*
+app/tmp/export/*
+app/tmp/import/*
+app/tmp/logs/*
+app/tmp/report/*
+app/tmp/sessions/*
+app/tmp/tests/*
+app/webroot/img/company/*
+app/Work/UploadFile/*
+!empty
+
+# Multi language #
+###########
+app/Locale/*/LC_MESSAGES/default.po
+app/Locale/default_po.csv
+
+# Vagrant
+.vagrant
+cookbooks/
+.bundle/
+.chef/
+
+# ctags
+TAGS
